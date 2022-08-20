@@ -1,0 +1,19 @@
+h1, h2{
+    font-family:Arial;
+    font-style:italic;
+}
+
+img#capy{
+    border-width: auto;
+}
+
+h1#warning{
+    color: red;
+    font-weight:bolder;
+
+}
+span#warning{
+    color: red;
+    
+
+}
